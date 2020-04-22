@@ -1,0 +1,167 @@
+partenza,arrivo,passeggeri
+Catania,Roma Fiumicino,1016262
+Roma Fiumicino,Catania,991516
+Roma Fiumicino,Palermo,799435
+Palermo,Roma Fiumicino,796016
+Milano Linate,Roma Fiumicino,597754
+Roma Fiumicino,Milano Linate,585999
+Catania,Milano Malpensa,477510
+Milano Malpensa,Catania,473521
+Cagliari,Roma Fiumicino,467938
+Roma Fiumicino,Cagliari,457099
+Bari,Roma Fiumicino,380980
+Roma Fiumicino,Bari,370653
+Cagliari,Milano Linate,315440
+Milano Linate,Cagliari,311859
+Catania,Milano Linate,295959
+Milano Linate,Catania,289850
+Roma Fiumicino,Torino,279460
+Torino,Roma Fiumicino,270784
+Brindisi,Roma Fiumicino,262211
+Napoli,Milano Linate,258545
+Roma Fiumicino,Brindisi,257239
+Lamezia Terme,Roma Fiumicino,256108
+Milano Linate,Napoli,250706
+Venezia,Roma Fiumicino,250453
+Roma Fiumicino,Venezia,250032
+Roma Fiumicino,Lamezia Terme,248253
+Bari,Bergamo,222783
+Bergamo,Bari,221760
+Bari,Milano Linate,204310
+Bergamo,Palermo,200713
+Palermo,Bergamo,199742
+Milano Linate,Bari,198937
+Palermo,Milano Linate,196039
+Milano Linate,Palermo,193267
+Lamezia Terme,Bergamo,192426
+Bergamo,Lamezia Terme,190910
+Brindisi,Bergamo,190415
+Bergamo,Brindisi,188253
+Milano Malpensa,Palermo,186568
+Catania,Bergamo,186090
+Bergamo,Catania,184555
+Palermo,Milano Malpensa,184371
+Catania,Bologna,181218
+Bologna,Catania,179683
+Milano Malpensa,Napoli,177881
+Napoli,Milano Malpensa,177701
+Roma Fiumicino,Genova,175397
+Bergamo,Cagliari,174461
+Cagliari,Bergamo,174290
+Alghero,Roma Fiumicino,172331
+Genova,Roma Fiumicino,171455
+Torino,Catania,171447
+Roma Fiumicino,Alghero,170461
+Catania,Torino,169400
+Olbia,Milano Linate,166559
+Milano Linate,Olbia,164362
+Venezia,Napoli,160335
+Napoli,Venezia,160283
+Milano Malpensa,Olbia,157395
+Olbia,Milano Malpensa,156798
+Bergamo,Napoli,156330
+Napoli,Bergamo,156059
+Milano Malpensa,Lamezia Terme,155240
+Lamezia Terme,Milano Malpensa,153840
+Napoli,Roma Fiumicino,152055
+Roma Fiumicino,Olbia,152033
+Olbia,Roma Fiumicino,151742
+Roma Fiumicino,Napoli,143104
+Napoli,Torino,141557
+Torino,Napoli,136571
+Palermo,Bologna,135008
+Bologna,Palermo,134413
+Roma Fiumicino,Trieste,132591
+Trieste,Roma Fiumicino,131178
+Torino,Palermo,129961
+Firenze,Roma Fiumicino,127998
+Palermo,Torino,127081
+Catania,Pisa,124008
+Pisa,Catania,123606
+Palermo,Pisa,121837
+Catania,Verona,121270
+Verona,Catania,121129
+Pisa,Palermo,120326
+Roma Fiumicino,Firenze,119500
+Roma Fiumicino,Bologna,117601
+Bologna,Roma Fiumicino,117504
+Brindisi,Milano Linate,110869
+Torino,Bari,108109
+Milano Linate,Brindisi,107803
+Bari,Torino,107517
+Reggio Calabria,Roma Fiumicino,106132
+Trapani,Bergamo,105514
+Napoli,Catania,105150
+Milano Malpensa,Bari,104750
+Bergamo,Trapani,103987
+Catania,Napoli,103865
+Bari,Milano Malpensa,103591
+Milano Linate,Alghero,102407
+Venezia,Catania,101304
+Catania,Venezia,100989
+Alghero,Milano Linate,100477
+Palermo,Verona,97319
+Pescara,Bergamo,97100
+Verona,Palermo,96816
+Roma Fiumicino,Reggio Calabria,95536
+Napoli,Palermo,94183
+Bergamo,Pescara,93484
+Palermo,Treviso,93479
+Treviso,Palermo,93223
+Palermo,Napoli,91356
+Brindisi,Bologna,91182
+Cagliari,Milano Malpensa,90602
+Milano Malpensa,Brindisi,89846
+Brindisi,Milano Malpensa,89705
+Verona,Roma Fiumicino,88659
+Roma Fiumicino,Verona,88470
+Milano Malpensa,Cagliari,88380
+Lamezia Terme,Milano Linate,88095
+Bologna,Brindisi,87998
+Milano Linate,Lamezia Terme,87706
+Treviso,Catania,87061
+Catania,Treviso,86900
+Lamezia Terme,Bologna,86553
+Bologna,Bari,86117
+Pisa,Cagliari,86085
+Bologna,Lamezia Terme,84655
+Bologna,Cagliari,84650
+Cagliari,Bologna,84606
+Cagliari,Pisa,84164
+Treviso,Napoli,83997
+Bari,Bologna,83624
+Reggio Calabria,Milano Linate,82999
+Napoli,Treviso,82290
+Milano Linate,Reggio Calabria,80169
+Roma Ciampino,Cagliari,78675
+Cagliari,Roma Ciampino,76877
+Pisa,Bari,72858
+Bologna,Trapani,72483
+Trapani,Bologna,72009
+Bari,Pisa,70201
+Bari,Treviso,66469
+Treviso,Bari,66341
+Pisa,Roma Fiumicino,65860
+Verona,Cagliari,65836
+Cagliari,Verona,65651
+Torino,Lamezia Terme,64067
+Lamezia Terme,Torino,63437
+Alghero,Bergamo,63206
+Pisa,Lamezia Terme,62695
+Lamezia Terme,Pisa,62495
+Milano Malpensa,Comiso,62269
+Roma Fiumicino,Pisa,62175
+Bergamo,Alghero,60417
+Lamezia Terme,Treviso,60009
+Treviso,Lamezia Terme,59850
+Pisa,Brindisi,59044
+Comiso,Milano Malpensa,58614
+Brindisi,Pisa,58114
+Trapani,Roma Fiumicino,57465
+Alghero,Bologna,56665
+Venezia,Olbia,56483
+Olbia,Venezia,55799
+Roma Fiumicino,Trapani,55696
+Bologna,Alghero,54702
+Pisa,Trapani,51979
+Trapani,Pisa,51674

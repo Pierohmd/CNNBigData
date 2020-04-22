@@ -1,0 +1,399 @@
+partenza,arrivo,paese,passeggeri
+Roma Fiumicino,Barcelona,Spain,1222627
+Roma Fiumicino,Amsterdam Schiphol,Netherlands,1108389
+Roma Fiumicino,Madrid Barajas,Spain,1090636
+Roma Fiumicino,Paris C. De Gaulle,France,1088042
+Roma Fiumicino,London Heathrow,Great Britain,974938
+Milano Malpensa,Paris C. De Gaulle,France,789798
+Venezia,Paris C. De Gaulle,France,787241
+Milano Malpensa,Barcelona,Spain,759243
+Venezia,London Gatwick,Great Britain,747162
+Milano Malpensa,Amsterdam Schiphol,Netherlands,744949
+Roma Fiumicino,Paris Orly,France,721168
+Roma Fiumicino,Brussels National,Belgium,717697
+Roma Fiumicino,Frankfurt International,Germany,710427
+Roma Fiumicino,Munich Franz Josef Strauss,Germany,706483
+Roma Fiumicino,London Gatwick,Great Britain,704587
+Milano Linate,Paris C. De Gaulle,France,674472
+Milano Linate,London Heathrow,Great Britain,657369
+Roma Ciampino,London Stansted,Great Britain,614959
+Milano Malpensa,Madrid Barajas,Spain,602492
+Milano Malpensa,London Gatwick,Great Britain,569331
+Roma Fiumicino,Athens Hellinikon,Greece,556482
+Venezia,Frankfurt International,Germany,494037
+Milano Linate,Frankfurt International,Germany,488508
+Bergamo,London Stansted,Great Britain,469723
+Milano Linate,Amsterdam Schiphol,Netherlands,450332
+Milano Malpensa,Lisbon Lisboa,Portugal,442911
+Venezia,Amsterdam Schiphol,Netherlands,442268
+Napoli,London Gatwick,Great Britain,432750
+Firenze,Paris C. De Gaulle,France,427342
+Roma Fiumicino,Lisbon Lisboa,Portugal,422862
+Milano Malpensa,Munich Franz Josef Strauss,Germany,415153
+Roma Ciampino,Bucharest Otopeni International,Romania,404632
+Roma Ciampino,Madrid Barajas,Spain,388654
+Bergamo,Barcelona,Spain,373049
+Venezia,Paris Orly,France,369450
+Milano Malpensa,Brussels National,Belgium,367272
+Napoli,Paris Orly,France,363903
+Milano Malpensa,Copenhagen Airport,Denmark,357009
+Roma Fiumicino,Malaga,Spain,345006
+Venezia,Barcelona,Spain,344019
+Milano Malpensa,Frankfurt International,Germany,337590
+Napoli,Barcelona,Spain,335750
+Roma Fiumicino,Nice Cote D'Azur,France,335019
+Bergamo,Bucharest Otopeni International,Romania,333094
+Roma Fiumicino,Copenhagen Airport,Denmark,331825
+Pisa,London Stansted,Great Britain,327886
+Treviso,London Stansted,Great Britain,320668
+Venezia,Madrid Barajas,Spain,319273
+Bergamo,Madrid Barajas,Spain,314664
+Roma Fiumicino,Malta Luqa,Malta,314294
+Napoli,Munich Franz Josef Strauss,Germany,311555
+Bologna,Frankfurt International,Germany,308324
+Milano Linate,London Gatwick,Great Britain,305263
+Milano Malpensa,Vienna International,Austria,301359
+Milano Malpensa,Prague Ruzyne,Czech Republic,295957
+Bologna,Barcelona,Spain,293617
+Catania,Malta Luqa,Malta,290311
+Roma Fiumicino,Dusseldorf,Germany,289849
+Bologna,Paris C. De Gaulle,France,287581
+Bologna,Madrid Barajas,Spain,286895
+Firenze,Frankfurt International,Germany,282361
+Milano Linate,Brussels National,Belgium,277105
+Roma Fiumicino,Helsinki Vantaa,Finland,275304
+Milano Malpensa,Athens Hellinikon,Greece,275259
+Roma Fiumicino,Berlin Tegel,Germany,273471
+Roma Fiumicino,Prague Ruzyne,Czech Republic,272261
+Bologna,London Heathrow,Great Britain,271425
+Verona,London Gatwick,Great Britain,271344
+Roma Fiumicino,Vienna International,Austria,268274
+Roma Ciampino,Athens Hellinikon,Greece,263233
+Roma Ciampino,Dublin,Ireland,262328
+Roma Ciampino,Berlin Schoenefeld,Germany,260592
+Roma Ciampino,Lisbon Lisboa,Portugal,260382
+Firenze,Amsterdam Schiphol,Netherlands,255763
+Pisa,London Gatwick,Great Britain,254848
+Milano Linate,London City Airport,Great Britain,248569
+Bergamo,Charleroi Brussels South Airport,Belgium,247725
+Bergamo,Dublin,Ireland,246731
+Milano Linate,Paris Orly,France,246216
+Milano Malpensa,London Heathrow,Great Britain,244945
+Roma Fiumicino,Budapest Ferihegy,Hungary,242603
+Bergamo,Berlin Schoenefeld,Germany,238171
+Roma Fiumicino,Stockholm Arlanda,Sweden,236643
+Bergamo,Valencia,Spain,233035
+Venezia,Munich Franz Josef Strauss,Germany,228480
+Roma Fiumicino,Warsaw Okecie,Poland,227461
+Milano Linate,Madrid Barajas,Spain,227327
+Roma Fiumicino,Lyon Satolas,France,226718
+Napoli,Amsterdam Schiphol,Netherlands,226064
+Roma Fiumicino,Bucharest Otopeni International,Romania,225355
+Napoli,London Stansted,Great Britain,225189
+Bologna,London Stansted,Great Britain,224195
+Milano Malpensa,Ibiza,Spain,223590
+Milano Malpensa,London Stansted,Great Britain,223266
+Milano Malpensa,Budapest Ferihegy,Hungary,223131
+Bologna,Bucharest Otopeni International,Romania,220120
+Napoli,Paris C. De Gaulle,France,218453
+Venezia,Brussels National,Belgium,214213
+Napoli,Frankfurt International,Germany,212092
+Roma Ciampino,Beauvais Tille,France,211896
+Bergamo,Cologne,Germany,210368
+Bergamo,Prague Ruzyne,Czech Republic,205823
+Roma Fiumicino,Marseille,France,204162
+Bologna,Munich Franz Josef Strauss,Germany,203565
+Catania,London Gatwick,Great Britain,203334
+Bergamo,Porto,Portugal,200578
+Bologna,Amsterdam Schiphol,Netherlands,200341
+Venezia,London Heathrow,Great Britain,195430
+Venezia,Dusseldorf,Germany,194769
+Bergamo,Copenhagen Airport,Denmark,193439
+Torino,Frankfurt International,Germany,192104
+Milano Malpensa,Dusseldorf,Germany,190029
+Firenze,Munich Franz Josef Strauss,Germany,188451
+Venezia,Berlin Schoenefeld,Germany,187450
+Milano Malpensa,Berlin Schoenefeld,Germany,185510
+Milano Linate,Berlin Tegel,Germany,183884
+Roma Fiumicino,Dublin,Ireland,183389
+Milano Malpensa,Helsinki Vantaa,Finland,182659
+Torino,Barcelona,Spain,181349
+Torino,Munich Franz Josef Strauss,Germany,180845
+Roma Fiumicino,Ibiza,Spain,177024
+Milano Malpensa,Hamburg Fuhlsbuettel,Germany,173858
+Roma Fiumicino,Sofia Vrazhdebna,Bulgaria,173113
+Milano Malpensa,Manchester International,Great Britain,172259
+Torino,Paris C. De Gaulle,France,171355
+Roma Ciampino,Manchester International,Great Britain,170829
+Torino,London Gatwick,Great Britain,168933
+Venezia,Manchester International,Great Britain,168170
+Milano Linate,Dusseldorf,Germany,167129
+Milano Malpensa,London Luton International,Great Britain,165597
+Bergamo,Timisoara,Romania,164831
+Roma Fiumicino,Sevilla,Spain,162297
+Milano Malpensa,Paris Orly,France,161437
+Roma Ciampino,Charleroi Brussels South Airport,Belgium,158791
+Bergamo,Athens Hellinikon,Greece,158690
+Milano Malpensa,Edinburgh Turnhouse,Great Britain,157693
+Bergamo,Manchester International,Great Britain,155889
+Milano Malpensa,Stuttgart Echterdingen,Germany,155696
+Pisa,Charleroi Brussels South Airport,Belgium,155619
+Milano Malpensa,Malaga,Spain,154782
+Catania,Amsterdam Schiphol,Netherlands,154481
+Roma Fiumicino,Toulouse Blagnac,France,154027
+Milano Malpensa,Luxembourg Findel,Luxemburg,151994
+Bergamo,Vilnius,Lithuania,150821
+Pisa,Madrid Barajas,Spain,150024
+Treviso,Charleroi Brussels South Airport,Belgium,149207
+Bologna,Valencia,Spain,148716
+Pisa,Paris Orly,France,147875
+Firenze,Barcelona,Spain,147481
+Napoli,Madrid Barajas,Spain,146252
+Catania,Munich Franz Josef Strauss,Germany,145849
+Roma Ciampino,Cologne,Germany,143964
+Roma Ciampino,Prague Ruzyne,Czech Republic,143168
+Roma Ciampino,Budapest Ferihegy,Hungary,141768
+Roma Ciampino,Valencia,Spain,140093
+Treviso,Barcelona,Spain,139278
+Venezia,Vienna International,Austria,138721
+Bergamo,Ibiza,Spain,138329
+Venezia,Lisbon Lisboa,Portugal,135870
+Bergamo,Beauvais Tille,France,135395
+Roma Ciampino,Warsaw Modlin,Poland,135088
+Venezia,Lyon Satolas,France,134753
+Bergamo,Budapest Ferihegy,Hungary,134728
+Bologna,Copenhagen Airport,Denmark,133491
+Bergamo,Sofia Vrazhdebna,Bulgaria,133107
+Bergamo,Lisbon Lisboa,Portugal,132774
+Venezia,Bristol,Great Britain,132449
+Milano Malpensa,Warsaw Okecie,Poland,132063
+Napoli,Manchester International,Great Britain,131028
+Bergamo,Sevilla,Spain,130769
+Bologna,Lisbon Lisboa,Portugal,129883
+Roma Fiumicino,London Luton International,Great Britain,129199
+Bari,London Stansted,Great Britain,127673
+Torino,London Stansted,Great Britain,127392
+Bergamo,Krakow John Paul Ii Balice,Poland,125642
+Roma Ciampino,Eindhoven,Netherlands,125580
+Napoli,London Luton International,Great Britain,124800
+Milano Malpensa,Sofia Vrazhdebna,Bulgaria,123974
+Bologna,Charleroi Brussels South Airport,Belgium,123961
+Bergamo,Warsaw Modlin,Poland,123675
+Cagliari,London Stansted,Great Britain,122591
+Bologna,Berlin Schoenefeld,Germany,122201
+Bergamo,Eindhoven,Netherlands,122168
+Treviso,Bucharest Otopeni International,Romania,122047
+Roma Ciampino,Nurnmberg,Germany,121157
+Firenze,Paris Orly,France,120435
+Pisa,Eindhoven,Netherlands,120237
+Verona,Munich Franz Josef Strauss,Germany,119798
+Pisa,Gerona Costa Brava,Spain,118579
+Roma Ciampino,Copenhagen Airport,Denmark,118530
+Pisa,London Heathrow,Great Britain,118465
+Catania,Bucharest Otopeni International,Romania,116632
+Torino,Amsterdam Schiphol,Netherlands,116252
+Pisa,Amsterdam Schiphol,Netherlands,116104
+Catania,Paris C. De Gaulle,France,115564
+Bergamo,Nykoping Skavsta,Sweden,115375
+Torino,Madrid Barajas,Spain,114953
+Bergamo,Malta Luqa,Malta,114922
+Milano Malpensa,Palma Mallorca,Spain,114495
+Roma Ciampino,Sofia Vrazhdebna,Bulgaria,114270
+Milano Malpensa,Bucharest Otopeni International,Romania,114185
+Trieste,Munich Franz Josef Strauss,Germany,114141
+Roma Fiumicino,Hamburg Fuhlsbuettel,Germany,113761
+Treviso,Berlin Schoenefeld,Germany,113083
+Roma Fiumicino,Manchester International,Great Britain,112873
+Genova,Paris C. De Gaulle,France,112313
+Roma Fiumicino,Bristol,Great Britain,112201
+Bergamo,Hamburg Fuhlsbuettel,Germany,112077
+Bergamo,Tenerife Sur Reina Sofia,Spain,112044
+Roma Fiumicino,Stuttgart Echterdingen,Germany,111798
+Firenze,Madrid Barajas,Spain,111502
+Palermo,London Stansted,Great Britain,110642
+Napoli,Brussels National,Belgium,110490
+Treviso,Beauvais Tille,France,110402
+Verona,Frankfurt International,Germany,110040
+Roma Fiumicino,Valencia,Spain,109705
+Ancona,London Stansted,Great Britain,109108
+Milano Malpensa,Cologne,Germany,108182
+Bari,Munich Franz Josef Strauss,Germany,107435
+Bari,Beauvais Tille,France,107164
+Napoli,Vienna International,Austria,106537
+Pisa,Berlin Schoenefeld,Germany,106128
+Milano Malpensa,Stockholm Arlanda,Sweden,103038
+Bergamo,Cluj Napoca,Romania,103013
+Olbia,London Gatwick,Great Britain,102971
+Napoli,Berlin Schoenefeld,Germany,102651
+Bergamo,Nurnmberg,Germany,102647
+Bologna,Beauvais Tille,France,101986
+Milano Linate,Dublin,Ireland,101900
+Bologna,London Gatwick,Great Britain,99137
+Napoli,Prague Ruzyne,Czech Republic,99070
+Bologna,Vienna International,Austria,97366
+Milano Malpensa,Mikonos,Greece,97184
+Venezia,Prague Ruzyne,Czech Republic,95779
+Trapani,Charleroi Brussels South Airport,Belgium,95412
+Roma Fiumicino,Alicante,Spain,95130
+Bergamo,Warsaw Okecie,Poland,94854
+Firenze,London City Airport,Great Britain,94665
+Bologna,Ibiza,Spain,94592
+Roma Ciampino,Krakow John Paul Ii Balice,Poland,93988
+Catania,Dusseldorf,Germany,93140
+Venezia,London Luton International,Great Britain,92723
+Bologna,Eindhoven,Netherlands,92611
+Genova,Munich Franz Josef Strauss,Germany,92383
+Perugia,London Stansted,Great Britain,91534
+Venezia,Hamburg Fuhlsbuettel,Germany,90971
+Palermo,Paris Orly,France,90243
+Roma Ciampino,Hahn Airport,Germany,90124
+Milano Linate,Malta Luqa,Malta,89307
+Pisa,Beauvais Tille,France,89105
+Pescara,London Stansted,Great Britain,88388
+Firenze,Dusseldorf,Germany,88259
+Roma Ciampino,Edinburgh Turnhouse,Great Britain,88249
+Milano Malpensa,Menorca,Spain,87604
+Pisa,Valencia,Spain,86694
+Roma Fiumicino,Rotterdam,Netherlands,86067
+Bergamo,Alicante,Spain,85693
+Venezia,Copenhagen Airport,Denmark,85459
+Milano Malpensa,Birmingham International,Great Britain,85304
+Bergamo,Fuerteventura Puerto Del Rosario,Spain,85028
+Firenze,London Gatwick,Great Britain,84575
+Milano Linate,Stockholm Arlanda,Sweden,84512
+Roma Fiumicino,Bacau,Romania,84437
+Ancona,Munich Franz Josef Strauss,Germany,84223
+Pisa,Manchester International,Great Britain,83690
+Milano Linate,Bucharest Otopeni International,Romania,83669
+Pisa,London Luton International,Great Britain,83457
+Roma Fiumicino,Thira,Greece,82986
+Venezia,Edinburgh Turnhouse,Great Britain,82904
+Bari,Amsterdam Schiphol,Netherlands,82698
+Catania,Berlin Schoenefeld,Germany,82587
+Milano Malpensa,Porto,Portugal,82437
+Bari,London Gatwick,Great Britain,82151
+Genova,London Stansted,Great Britain,81885
+Bergamo,Gdansk Rebiechowo,Poland,81226
+Milano Malpensa,Nantes Chateau Bougon,France,80812
+Milano Malpensa,Tenerife Sur Reina Sofia,Spain,79816
+Bergamo,Thessaloniki Makedonia Apt,Greece,79782
+Bari,Bucharest Otopeni International,Romania,79725
+Catania,Paris Orly,France,79142
+Brindisi,London Stansted,Great Britain,78194
+Roma Fiumicino,Cologne,Germany,77909
+Napoli,Dublin,Ireland,76885
+Bologna,Malta Luqa,Malta,76847
+Bergamo,Riga,Latvia,76798
+Bari,Budapest Ferihegy,Hungary,76242
+Milano Linate,Munich Franz Josef Strauss,Germany,76008
+Napoli,Bucharest Otopeni International,Romania,75780
+Bergamo,Niederrhein,Germany,75754
+Bologna,Dusseldorf,Germany,75360
+Catania,Berlin Tegel,Germany,75337
+Catania,Madrid Barajas,Spain,75317
+Venezia,Mulhouse Euroairport French,France,75009
+Roma Ciampino,Thessaloniki Makedonia Apt,Greece,74576
+Treviso,Brussels National,Belgium,74278
+Bergamo,Palma Mallorca,Spain,74131
+Bergamo,Bratislava Ivanka,Slovak Republic,73948
+Bari,Charleroi Brussels South Airport,Belgium,73589
+Roma Fiumicino,Birmingham International,Great Britain,73276
+Verona,London Stansted,Great Britain,73245
+Roma Ciampino,Santander,Spain,73201
+Genova,London Gatwick,Great Britain,72843
+Milano Malpensa,Bordeaux Merignac,France,72104
+Bologna,Athens Hellinikon,Greece,71974
+Treviso,Hahn Airport,Germany,71690
+Olbia,Amsterdam Schiphol,Netherlands,71664
+Bologna,Cluj Napoca,Romania,71493
+Bologna,Warsaw Modlin,Poland,71138
+Olbia,Dusseldorf,Germany,70766
+Palermo,Munich Franz Josef Strauss,Germany,70682
+Bergamo,Gran Canaria Las Palmas,Spain,70240
+Olbia,Paris C. De Gaulle,France,69448
+Bergamo,Malaga,Spain,68517
+Pisa,Munich Franz Josef Strauss,Germany,68444
+Pescara,Hahn Airport,Germany,68441
+Bologna,Tenerife Sur Reina Sofia,Spain,67905
+Pisa,Dublin,Ireland,67857
+Venezia,Bordeaux Merignac,France,67804
+Catania,Stuttgart Echterdingen,Germany,67756
+Roma Ciampino,Cluj Napoca,Romania,67692
+Verona,Amsterdam Schiphol,Netherlands,67310
+Bologna,Cologne,Germany,67245
+Venezia,Cologne,Germany,67109
+Pescara,Charleroi Brussels South Airport,Belgium,67030
+Torino,Bucharest Otopeni International,Romania,66604
+Venezia,Dublin,Ireland,66596
+Bologna,Dublin,Ireland,66487
+Bologna,Sevilla,Spain,66461
+Roma Fiumicino,Mikonos,Greece,66407
+Milano Linate,Barcelona,Spain,66226
+Catania,Barcelona,Spain,65821
+Napoli,Budapest Ferihegy,Hungary,65642
+Palermo,London Gatwick,Great Britain,65154
+Bergamo,Edinburgh Turnhouse,Great Britain,65136
+Trieste,London Stansted,Great Britain,65005
+Napoli,Stuttgart Echterdingen,Germany,64762
+Pisa,Hahn Airport,Germany,64700
+Bergamo,Lanzarote,Spain,64230
+Milano Malpensa,Fuerteventura Puerto Del Rosario,Spain,63487
+Palermo,Niederrhein,Germany,63231
+Napoli,Dusseldorf,Germany,62864
+Milano Malpensa,Riga,Latvia,62667
+Bergamo,Zaragoza,Spain,62667
+Milano Malpensa,Dublin,Ireland,62640
+Venezia,Nice Cote D'Azur,France,62500
+Roma Fiumicino,Luxembourg Findel,Luxemburg,62309
+Pisa,Bristol,Great Britain,62097
+Treviso,Dublin,Ireland,61857
+Catania,Manchester International,Great Britain,60098
+Lamezia Terme,London Stansted,Great Britain,60013
+Olbia,Munich Franz Josef Strauss,Germany,59545
+Pisa,Barcelona,Spain,59425
+Bergamo,Craiova,Romania,59135
+Bologna,Sofia Vrazhdebna,Bulgaria,59120
+Venezia,Athens Hellinikon,Greece,58937
+Milano Malpensa,Heraklion N. Kazantzakis Apt,Greece,58278
+Napoli,Nice Cote D'Azur,France,58155
+Treviso,Malta Luqa,Malta,58133
+Bergamo,Iasi,Romania,57406
+Roma Ciampino,Bordeaux Merignac,France,57154
+Catania,Budapest Ferihegy,Hungary,56727
+Bergamo,Tallinn Ulemiste,Estonia,56231
+Verona,Birmingham International,Great Britain,56080
+Bari,Malta Luqa,Malta,55154
+Roma Ciampino,Bratislava Ivanka,Slovak Republic,54854
+Venezia,Nantes Chateau Bougon,France,54846
+Bologna,Krakow John Paul Ii Balice,Poland,54598
+Torino,Charleroi Brussels South Airport,Belgium,54555
+Milano Malpensa,Sevilla,Spain,54538
+Napoli,Ibiza,Spain,54433
+Milano Malpensa,Lyon Satolas,France,54087
+Palermo,Madrid Barajas,Spain,53919
+Cagliari,Barcelona,Spain,53899
+Milano Malpensa,Toulouse Blagnac,France,53832
+Olbia,Berlin Schoenefeld,Germany,53731
+Roma Fiumicino,Tenerife Sur Reina Sofia,Spain,53674
+Bari,Hahn Airport,Germany,53589
+Torino,Bacau,Romania,53532
+Bologna,Brussels National,Belgium,53150
+Bergamo,East Midlands,Great Britain,53099
+Palermo,Beauvais Tille,France,53043
+Catania,Eindhoven,Netherlands,52846
+Treviso,East Midlands,Great Britain,52755
+Bari,Berlin Schoenefeld,Germany,52654
+Bergamo,Suceava Salcea,Romania,52581
+Roma Fiumicino,Liverpool International Airport,Great Britain,52399
+Venezia,Marseille,France,52280
+Olbia,Stuttgart Echterdingen,Germany,52217
+Milano Malpensa,Rhodes Diagoras Airport,Greece,52085
+Venezia,Toulouse Blagnac,France,51949
+Milano Malpensa,Lanzarote,Spain,51885
+Verona,Manchester International,Great Britain,51008
+Bergamo,Bristol,Great Britain,50881
+Roma Ciampino,Porto,Portugal,50877
+Pisa,Malta Luqa,Malta,50567
+Catania,London Luton International,Great Britain,50537
+Firenze,Brussels National,Belgium,50529
+Bergamo,Santiago De Compostela,Spain,50121
