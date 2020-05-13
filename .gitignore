@@ -1,3 +1,4 @@
 articoli
 articoli/*
 *.graphhml
+.ipynb_checkpoints/*
