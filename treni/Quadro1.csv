@@ -1,0 +1,78 @@
+Brescia,Torino,0
+Brescia,Milano,2
+Brescia,Piacenza,0
+Brescia,Parma,0
+Brescia,Reggio Emilia,0
+Brescia,Modena,0
+Brescia,Bologna,2
+Brescia,Firenze,0
+Brescia,Perugia,0
+Brescia,Roma,2
+Brescia,Napoli,2
+Brescia,Salerno, 0
+Torino,Milano, 68
+Torino,Piacenza,0
+Torino,Parma,0
+Torino,Reggio Emilia, 0
+Torino,Modena,0
+Torino,Bologna, 29
+Torino,Firenze,22
+Torino,Perugia,2
+Torino,Roma,50
+Torino,Napoli, 38
+Torino,Salerno, 6
+Milano,Piacenza,2
+Milano,Parma,2
+Milano,Reggio Emilia,74
+Milano,Modena,2
+Milano,Bologna,106
+Milano,Firenze,68
+Milano,Perugia,2
+Milano,Roma,130
+Milano,Napoli,90
+Milano,Salerno,24
+Piacenza,Parma,2
+Piacenza,Reggio Emilia,2
+Piacenza,Modena,2
+Piacenza,Bologna,2
+Piacenza,Firenze,2
+Piacenza,Perugia,0
+Piacenza,Roma,2
+Piacenza,Napoli,0
+Piacenza,Salerno,0
+Parma,Reggio Emilia,2
+Parma,Modena,2
+Parma,Bologna,2
+Parma,Firenze,2
+Parma,Perugia,0
+Parma,Roma,2
+Parma,Napoli,0
+Parma,Salerno,0
+Reggio Emilia,Modena,2
+Reggio Emilia,Bologna, 72
+Reggio Emilia,Firenze,66
+Reggio Emilia,Perugia,2
+Reggio Emilia,Roma,60
+Reggio Emilia,Napoli,46
+Reggio Emilia,Salerno, 16
+Modena,Bologna, 2
+Modena,Firenze, 2
+Modena,Perugia,0
+Modena,Roma,2
+Modena,Napoli,0
+Modena,Salerno,0
+Bologna,Firenze,64
+Bologna,Perugia,2
+Bologna,Roma,92
+Bologna,Napoli,64
+Bologna,Salerno,20
+Firenze,Perugia,2
+Firenze,Roma, 64
+Firenze,Napoli, 56
+Firenze,Salerno,20
+Perugia,Roma,0
+Perugia,Napoli,0
+Perugia,Salerno,0
+Napoli,Salerno, 24
+Roma,Napoli,92
+Roma,Salerno,24

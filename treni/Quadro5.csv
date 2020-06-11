@@ -1,0 +1,112 @@
+Torino, Milano, 6
+Torino, Reggio Emilia, 6
+Torino, Bologna, 6
+Torino, Rimini, 6
+Torino, Riccione, 4
+Torino, Pesaro, 6
+Torino, Ancona, 6
+Torino, Pescara, 6
+Torino, Termoli, 6
+Torino, Foggia, 6
+Torino, Barletta, 6
+Torino, Bari, 6
+Torino, Brindisi, 4
+Torino, Lecce, 4
+Milano, Reggio Emilia, 14
+Milano, Bologna, 14
+Milano, Forlì, 2
+Milano, Rimini, 10
+Milano, Riccione, 4
+Milano, Pesaro, 8
+Milano, Ancona, 10
+Milano, Pescara, 10
+Milano, Termoli, 8
+Milano, Foggia, 8
+Milano, Barletta, 6
+Milano, Bari, 8
+Milano, Brindisi, 4
+Milano, Lecce, 4
+Reggio Emilia, Bologna, 14
+Reggio Emilia, Forlì, 2
+Reggio Emilia, Rimini, 10
+Reggio Emilia, Riccione, 4
+Reggio Emilia, Pesaro, 8
+Reggio Emilia, Ancona, 10
+Reggio Emilia, Pescara, 10
+Reggio Emilia, Termoli, 8
+Reggio Emilia, Foggia, 8
+Reggio Emilia, Barletta, 6
+Reggio Emilia, Bari, 8
+Reggio Emilia, Brindisi, 4
+Reggio Emilia, Lecce, 4
+Bologna, Forlì, 2
+Bologna, Rimini, 10
+Bologna, Riccione, 4
+Bologna, Pesaro, 8
+Bologna, Ancona, 10
+Bologna, Pescara, 10
+Bologna, Termoli, 8
+Bologna, Foggia, 8
+Bologna, Barletta, 6
+Bologna, Bari, 8
+Bologna, Brindisi, 4
+Bologna, Lecce, 4
+Forlì, Rimini, 2
+Forlì, Pesaro, 2
+Forlì, Ancona, 2
+Forlì, Pescara, 2
+Rimini, Riccione, 4
+Rimini, Pesaro, 8
+Rimini, Ancona, 10
+Rimini, Pescara, 10
+Rimini, Termoli, 8
+Rimini, Foggia, 8
+Rimini, Barletta, 6
+Rimini, Bari, 8
+Rimini, Brindisi, 6
+Rimini, Lecce, 6
+Riccione, Pesaro, 4
+Riccione, Ancona, 4
+Riccione, Pescara, 4
+Riccione, Termoli, 4
+Riccione, Foggia, 4
+Riccione, Barletta, 4
+Riccione, Bari, 4
+Riccione, Brindisi, 4
+Riccione, Lecce, 4
+Pesaro, Ancona, 6
+Pesaro, Pescara, 6
+Pesaro, Termoli, 6
+Pesaro, Foggia, 6
+Pesaro, Barletta, 6
+Pesaro, Bari, 6
+Pesaro, Brindisi, 4
+Pesaro, Lecce, 4
+Ancona, Pescara, 10
+Ancona, Termoli, 8
+Ancona, Foggia, 8
+Ancona, Barletta, 6
+Ancona, Bari, 8
+Ancona, Brindisi, 4
+Ancona, Lecce, 4
+Pescara, Termoli, 8
+Pescara, Foggia, 8
+Pescara, Barletta, 6
+Pescara, Bari, 8
+Pescara, Brindisi, 4
+Pescara, Lecce, 4
+Termoli, Foggia, 8
+Termoli, Barletta, 6
+Termoli, Bari, 8
+Termoli, Brindisi, 4
+Termoli, Lecce, 4
+Foggia, Barletta, 6
+Foggia, Bari, 8
+Foggia, Brindisi, 4
+Foggia, Lecce, 4
+Barletta, Bari, 6
+Barletta, Brindisi, 4
+Barletta, Lecce, 4
+Bari, Brindisi, 4
+Bari, Lecce, 4
+Brindisi, Lecce, 4
