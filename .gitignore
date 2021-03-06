@@ -1,5 +1,6 @@
 articoli
 articoli/*
+<<<<<<< HEAD
 *.graphml
 .ipynb_checkpoints/
 .DS_Store

@@ -1,0 +1,238 @@
+Trieste,Udine,0
+Trieste,Treviso,0
+Trieste,Venezia,0
+Trieste,Padova,0
+Trieste, Rovigo,0
+Trieste,Ferrara,0
+Trieste,Bolzano,0
+Trieste,Trento,0
+Trieste,Bergamo,0
+Trieste,Brescia,0
+Trieste,Vicenza,0
+Trieste,Verona,0
+Trieste,Milano,0
+Trieste,Reggio Emilia,0
+Trieste,Mantova,0
+Trieste,Modena,0
+Trieste,Bologna,0
+Trieste,Firenze,0
+Trieste,Roma,0
+Trieste,Napoli,0
+Trieste,Salerno,0
+Venezia,Padova,36
+Venezia, Rovigo,2
+Venezia,Ferrara,26
+Venezia,Bolzano,0
+Venezia,Trento,0
+Venezia,Bergamo,0 
+Venezia,Brescia,0
+Venezia,Vicenza,0
+Venezia,Rovigo,4
+Venezia,Verona,0
+Venezia,Milano,0
+Venezia,Reggio Emilia,0
+Venezia,Mantova,0
+Venezia,Modena,0
+Venezia,Bologna,36
+Venezia,Firenze,32
+Venezia,Roma,36
+Venezia,Napoli,20
+Venezia,Salerno,2
+Udine,Treviso,4
+Udine,Venezia,4
+Udine,Padova,4
+Udine,Rovigo,0
+Udine,Ferrara,4
+Udine,Bolzano,0
+Udine,Trento,0
+Udine,Bergamo,0
+Udine,Brescia,0
+Udine,Vicenza,0
+Udine,Verona,0
+Udine,Milano,0
+Udine,Reggio Emilia,0
+Udine,Mantova,0
+Udine,Modena,0
+Udine,Bologna,4
+Udine,Firenze,4
+Udine,Roma,4
+Udine,Napoli,4
+Udine,Salerno,0
+Treviso,Venezia,4
+Treviso,Padova,4
+Treviso, Rovigo,0
+Treviso,Ferrara,4
+Treviso,Bolzano,0
+Treviso,Trento,0
+Treviso,Bergamo,0
+Treviso,Brescia,0
+Treviso,Vicenza,0
+Treviso,Verona,0
+Treviso,Milano,0
+Treviso,Reggio Emilia,0
+Treviso,Mantova,0
+Treviso,Modena,0
+Treviso,Bologna,4
+Treviso,Firenze,4
+Treviso,Roma,4
+Treviso,Napoli,4
+Treviso,Salerno,
+Padova,Rovigo,2
+Padova,Ferrara,26
+Padova,Bolzano,0
+Padova,Trento,0
+Padova,Bergamo,0
+Padova,Brescia,0
+Padova,Vicenza,0
+Padova,Verona,0
+Padova,Rovigo,4
+Padova,Milano,0
+Padova,Reggio Emilia,0
+Padova,Mantova,0
+Padova,Modena,0
+Padova,Bologna,36
+Padova,Firenze,32
+Padova,Roma,36
+Padova,Napoli,20
+Padova,Salerno,2
+Rovigo,Ferrara,0
+Rovigo,Bolzano,0
+Rovigo,Trento,0
+Rovigo,Bergamo,0
+Rovigo,Brescia,0
+Rovigo,Vicenza,0
+Rovigo,Verona,0
+Rovigo,Milano,0
+Rovigo,Reggio Emilia,0
+Rovigo,Mantova,0
+Rovigo,Modena,0
+Rovigo,Bologna,8
+Rovigo,Firenze,8
+Rovigo,Roma,8
+Rovigo,Napoli,8
+Rovigo,Salerno,
+Ferrara,Bolzano,
+Ferrara,Trento,
+Ferrara,Bergamo, 
+Ferrara,Brescia,
+Ferrara,Vicenza,
+Ferrara,Verona,
+Ferrara,Milano,
+Ferrara,Reggio Emilia,
+Ferrara,Mantova,
+Ferrara,Modena,
+Ferrara,Bologna,36
+Ferrara,Firenze,24
+Ferrara,Roma,24
+Ferrara,Napoli,14
+Ferrara,Salerno,2
+Bolzano,Trento,4
+Bolzano,Bergamo,0
+Bolzano,Brescia,2
+Bolzano,Vicenza,0
+Bolzano,Verona,4
+Bolzano,Milano,2
+Bolzano,Reggio Emilia,0
+Bolzano,Mantova,0
+Bolzano,Modena,0
+Bolzano,Bologna,2
+Bolzano,Firenze,2
+Bolzano,Roma,2
+Bolzano,Napoli,0
+Bolzano,Salerno,0
+Trento,Bergamo,0
+Trento,Brescia,2
+Trento,Vicenza,0
+Trento,Verona,4
+Trento,Milano,2
+Trento,Reggio Emilia,0
+Trento,Mantova,0
+Trento,Modena,0
+Trento,Bologna,2
+Trento,Firenze,2
+Trento,Roma,2
+Trento,Napoli,0
+Trento,Salerno,0
+Bergamo,Brescia,2
+Bergamo,Vicenza,0
+Bergamo,Verona,2
+Bergamo,Milano,0
+Bergamo,Reggio Emilia,0
+Bergamo,Mantova,0
+Bergamo,Modena,0
+Bergamo,Bologna,2
+Bergamo,Firenze,2
+Bergamo,Roma,2
+Bergamo,Napoli,0
+Bergamo,Salerno,0
+Brescia,Vicenza,0
+Brescia,Verona,2
+Brescia,Milano,0
+Brescia,Reggio Emilia,0
+Brescia,Mantova,0
+Brescia,Modena,0
+Brescia,Bologna,2
+Brescia,Firenze,2
+Brescia,Roma,2
+Brescia,Napoli,0
+Brescia,Salerno,0
+Vicenza,Verona,0
+Vicenza,Milano,0
+Vicenza,Reggio Emilia,0
+Vicenza,Mantova,0
+Vicenza,Modena,0
+Vicenza,Bologna,0
+Vicenza,Firenze,0
+Vicenza,Roma,0
+Vicenza,Napoli,0
+Vicenza,Salerno,0
+Verona,Milano,2
+Verona,Reggio Emilia,0
+Verona,Mantova,0
+Verona,Modena,0
+Verona,Bologna,4
+Verona,Firenze,4
+Verona,Roma,4
+Verona,Napoli,0
+Verona,Salerno,0
+Milano,Reggio Emilia,0
+Milano,Mantova,0
+Milano,Modena,0
+Milano,Bologna,0
+Milano,Firenze,0
+Milano,Roma,0
+Milano,Napoli,0
+Milano,Salerno,0
+Reggio Emilia,Mantova,0
+Reggio Emilia,Modena,0
+Reggio Emilia,Bologna,2
+Reggio Emilia,Firenze,2
+Reggio Emilia,Roma,2
+Reggio Emilia,Napoli,0
+Reggio Emilia,Salerno,0
+Mantova,Modena,0
+Mantova,Bologna,0
+Mantova,Firenze,0
+Mantova,Roma,0
+Mantova,Napoli,0
+Mantova,Salerno,0
+Modena,Bologna,0
+Modena,Firenze,0
+Modena,Roma,0
+Modena,Napoli,0
+Modena,Salerno,0
+Bologna,Firenze,38
+Bologna,Roma,42
+Bologna,Napoli,26
+Bologna,Salerno,2
+Firenze,Roma,38
+Firenze,Napoli,24
+Firenze,Salerno,2
+Roma,Napoli,20
+Roma,Salerno,2
+Napoli,Salerno,2
+Torino,Reggio Emilia,2
+Torino,Bologna,2
+Torino,Firenze,2
+Torino,Roma,2
+Torino,Napoli,2
