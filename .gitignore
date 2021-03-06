@@ -1,3 +1,5 @@
 articoli
 articoli/*
-*.graphhml
+*.graphml
+.ipynb_checkpoints/
+.DS_Store
